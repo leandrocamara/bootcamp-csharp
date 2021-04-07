@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SOLID", "SOLID", "{4A35ECC9-D2BD-48BE-871C-F3A6A582B750}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bootcamp.SOLID", "Bootcamp.SOLID\Bootcamp.SOLID.csproj", "{48AD4B08-26DE-4A3C-B47D-6DB5EDFE12E5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DesignPatterns", "DesignPatterns", "{FC3D1DDF-D644-433E-A80B-CF9DF3EA0B3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bootcamp.DesignPatterns", "Bootcamp.DesignPatterns\Bootcamp.DesignPatterns.csproj", "{B1C72CF9-CB29-4C42-BFF4-523152375977}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{48AD4B08-26DE-4A3C-B47D-6DB5EDFE12E5} = {4A35ECC9-D2BD-48BE-871C-F3A6A582B750}
+		{B1C72CF9-CB29-4C42-BFF4-523152375977} = {FC3D1DDF-D644-433E-A80B-CF9DF3EA0B3A}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48AD4B08-26DE-4A3C-B47D-6DB5EDFE12E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48AD4B08-26DE-4A3C-B47D-6DB5EDFE12E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48AD4B08-26DE-4A3C-B47D-6DB5EDFE12E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48AD4B08-26DE-4A3C-B47D-6DB5EDFE12E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1C72CF9-CB29-4C42-BFF4-523152375977}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1C72CF9-CB29-4C42-BFF4-523152375977}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1C72CF9-CB29-4C42-BFF4-523152375977}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1C72CF9-CB29-4C42-BFF4-523152375977}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
